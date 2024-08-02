@@ -1,5 +1,17 @@
 #This file represent the data types in Python
 
+#Data Types in Python
+#1. int for integer
+#2. float for decimal numbers
+#3. str for string 
+#4. complex for complex numbers
+#5. dict for dictionaries
+#6. list for lists
+#7. tuples for tuples
+#8. boolean for true or false values
+#9. range for ranges
+#10. set for sets
+
 # name ="sudhaa"
 # print(isinstance(name , str))
 # age =40.5
